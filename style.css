@@ -209,6 +209,36 @@ body {
     background-position: center;
 }
 
+.work-4-2.gallery-room {
+    background-image: url('img/national_artist/4-3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-5.gallery-room {
+    background-image: url('img/national_artist/5-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-6.gallery-room {
+    background-image: url('img/national_artist/6-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-7.gallery-room {
+    background-image: url('img/national_artist/7-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-8.gallery-room {
+    background-image: url('img/national_artist/8-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
 /* Spotlight Effect on the Wall */
 .gallery-room::before {
     content: '';
