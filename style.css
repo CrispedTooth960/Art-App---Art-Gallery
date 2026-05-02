@@ -209,12 +209,6 @@ body {
     background-position: center;
 }
 
-.work-4-2.gallery-room {
-    background-image: url('img/national_artist/4-3.jpg');
-    background-size: cover;
-    background-position: center;
-}
-
 .work-5.gallery-room {
     background-image: url('img/national_artist/5-1.jpg');
     background-size: cover;
@@ -235,6 +229,18 @@ body {
 
 .work-8.gallery-room {
     background-image: url('img/national_artist/8-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-8-2.gallery-room {
+    background-image: url('img/national_artist/8-3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.work-9-2.gallery-room {
+    background-image: url('img/national_artist/9-3.png');
     background-size: cover;
     background-position: center;
 }
